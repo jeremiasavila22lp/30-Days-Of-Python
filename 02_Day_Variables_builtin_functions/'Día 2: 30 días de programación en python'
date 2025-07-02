@@ -1,0 +1,40 @@
+# variables.py
+# 'Día 2: 30 días de programación en python'
+
+first_name = 'Geremias'
+last_name = 'Avila'
+complete_name = 'Avila_Geremias'
+age = '17'
+country = 'Argentina'
+city = 'Cordoba'
+is_married = 'false'
+is_false = 'is_married'
+person_information = { 'firstname' : 'Geremias' , 'lastname' : 'Avila' , 'country' : 'Argentina' , 'city' : 'Cordoba' }
+
+print('first_name:' , first_name)
+print('last name:' , last_name)
+print('country:' , country)
+print('city:' , city)
+print('complete name:' , complete_name)
+print('years old:' , age)
+print('is married?:' , is_married)
+print('is false:' , is_false)
+print('person information:' , person_information)
+
+print(type('Geremias'))
+print(type(17))
+print(type('Argentina'))
+print(type(0.35))
+print(type(city))
+print(type({'first name:' , Geremias}))
+print(type({'person information:' , person_information}))
+print(type(is false))
+print(type(zip([1,2],[3,4])))
+
+print(len(first_name))
+print(len(last_name))
+num_one = 5
+num_two = 4
+print('num one' , num_one))
+print('num two' , num_two))
+
